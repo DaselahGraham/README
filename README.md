@@ -14,6 +14,8 @@ For example:
 
 #### Geographic Influence: 
 If the data shows that individuals from the Southeast region tend to incur higher charges on average, insurers can adjust premiums for clients from this region to better reflect the risk.
+![image](https://github.com/user-attachments/assets/fdbffa0f-bc41-4980-94d1-d44c2841f8c7)
+
 #### Smoking Habits: 
 If smokers have higher healthcare expenses, insurance providers may offer higher premiums to smokers to cover the added risk of chronic conditions.
 #### BMI and Health Costs: 
