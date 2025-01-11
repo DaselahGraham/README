@@ -14,13 +14,19 @@ For example:
 
 #### Geographic Influence: 
 If the data shows that individuals from the Southeast region tend to incur higher charges on average, insurers can adjust premiums for clients from this region to better reflect the risk.
+
 ![image](https://github.com/user-attachments/assets/fdbffa0f-bc41-4980-94d1-d44c2841f8c7)
 
 #### Smoking Habits: 
 If smokers have higher healthcare expenses, insurance providers may offer higher premiums to smokers to cover the added risk of chronic conditions.
+
+![image](https://github.com/user-attachments/assets/ffbffc8f-ac24-4e28-9fb9-14cd65b03fa8)
+
 #### BMI and Health Costs: 
 Recognizing the connection between higher BMI and increased healthcare costs allows insurers to tailor health-related benefits or preventive programs for individuals with higher BMI categories. In real-world applications, this analysis can guide insurance companies in improving customer segmentation, pricing strategies, and the development of more tailored policies for their clientele. Additionally, healthcare professionals can use these insights to recommend lifestyle changes and preventative care based on risk factors.
-________________________________________
+
+![image](https://github.com/user-attachments/assets/ce5d267d-bcab-49f3-bfdf-bab286e18910)
+________________________________
 ## Data Exploration and Analysis
 
 ### Data Overview
