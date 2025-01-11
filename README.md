@@ -2,9 +2,9 @@
 ## Introduction
 In today’s rapidly evolving healthcare industry, understanding the factors that influence medical costs is essential. By analyzing demographic and geographic data, we can gain insights into patterns that can help insurance companies, policy makers, and individuals make more informed decisions about healthcare. The dataset provided contains information about a variety of personal attributes (such as age, gender, BMI, family size, smoking habits), geographic regions, and medical insurance charges. This project aims to uncover how different features relate to healthcare costs, answering business questions such as:
 
-Does a person’s location affect their insurance cost?
-Do smokers incur higher medical expenses than nonsmokers?
-Does a higher BMI result in higher healthcare costs?
+##### Does a person’s location affect their insurance cost?
+##### Do smokers incur higher medical expenses than nonsmokers?
+##### Does a higher BMI result in higher healthcare costs?
 
 Through data wrangling, analysis, and modeling, this post explains how to answer these questions and highlights the techniques used to handle categorical data and missing values, making it relevant for real-world applications.
 ________________________________________
