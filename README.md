@@ -1,5 +1,6 @@
 ### GitHub Repository Post: Analyzing Healthcare Costs Using Demographic and Geographic Data
-![istockphoto-1437830105-612x612](https://github.com/user-attachments/assets/3b6237ca-3895-4cb5-ad86-5d378f475e25)
+![medical-banner-with-doctor-wearing-goggles](https://github.com/user-attachments/assets/9a9ca4fd-5ab6-4bbd-8642-a2a664d20f9b)
+
 
 #### Introduction
 
