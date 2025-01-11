@@ -1,5 +1,7 @@
 # GitHub Repository Post: Analyzing Healthcare Costs Using Demographic and Geographic Data
 ## Introduction
+![image](https://github.com/user-attachments/assets/7bf40d8f-ebf6-4275-8ec7-c864a563f51f)
+
 In today’s rapidly evolving healthcare industry, understanding the factors that influence medical costs is essential. By analyzing demographic and geographic data, we can gain insights into patterns that can help insurance companies, policy makers, and individuals make more informed decisions about healthcare. The dataset provided contains information about a variety of personal attributes (such as age, gender, BMI, family size, smoking habits), geographic regions, and medical insurance charges. This project aims to uncover how different features relate to healthcare costs, answering business questions such as:
 
 ##### Does a person’s location affect their insurance cost?
