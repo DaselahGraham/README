@@ -1,6 +1,6 @@
 ### GitHub Repository Post: Analyzing Healthcare Costs Using Demographic and Geographic Data
 
-![240_F_316390528_pdGvI0V4C7eIamSYifI0Faj9dp9XEoLu](https://github.com/user-attachments/assets/436b3ecd-68bc-4f98-a7ee-41b00de21d13)
+![istockphoto-911749970-612x612](https://github.com/user-attachments/assets/41945907-ca14-405b-b11b-f0b370956a38)
 
 
 #### Introduction
