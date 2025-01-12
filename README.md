@@ -1,7 +1,6 @@
 ### GitHub Repository Post: Analyzing Healthcare Costs Using Demographic and Geographic Data
 ![medical-banner-with-doctor-wearing-goggles](https://github.com/user-attachments/assets/9a9ca4fd-5ab6-4bbd-8642-a2a664d20f9b)
 
-
 #### Introduction
 
 In today’s rapidly evolving healthcare industry, understanding the factors that influence medical costs is essential. By analyzing demographic and geographic data, we can gain insights into patterns that can help insurance companies, policy makers, and individuals make more informed decisions about healthcare. The dataset provided contains information about a variety of personal attributes (such as age, gender, BMI, family size, smoking habits), geographic regions, and medical insurance charges. This project aims to uncover how different features relate to healthcare costs, answering business questions such as:
@@ -16,11 +15,11 @@ Through data wrangling, analysis, and modeling, this post explains how to answer
 
 #### Business Context and Real-World Applications
 
-In the context of the insurance industry, the insights gained from this dataset can help businesses predict healthcare expenses and set pricing models. Insurance companies need to assess risk factors associated with their clients to offer fair yet competitive prices. By analyzing factors such as location, smoking habits, and BMI, insurers can build predictive models for risk assessment.
+In the context of the insurance industry, the insights gained from this dataset can help businesses predict healthcare expenses, set pricing models, and make data driven decisions. Insurance companies need to assess risk factors associated with their members to offer fair yet competitive prices. By analyzing factors such as location, smoking habits, and BMI, insurers can build predictive models for risk assessment, and adjust accordingly.
 
 For example:
-- **Geographic Influence**: If the data shows that individuals from the Southeast region tend to incur higher charges on average, insurers can adjust premiums for clients from this region to better reflect the risk.
-- **Smoking Habits**: If smokers have higher healthcare expenses, insurance providers may offer higher premiums to smokers to cover the added risk of chronic conditions.
+- **Geographic Influence**: If the data shows that individuals from the Southeast region tend to incur higher charges on average insurers can adjust premiums for clients from this region to better reflect the risk.
+- **Smoking Habits**: If smokers have higher healthcare expenses, insurance providers may offer higher premiums to smokers to cover the added risk of chronic conditions. They may also
 - **BMI and Health Costs**: Recognizing the connection between higher BMI and increased healthcare costs allows insurers to tailor health-related benefits or preventive programs for individuals with higher BMI categories.
 
 In real-world applications, this analysis can guide insurance companies in improving customer segmentation, pricing strategies, and the development of more tailored policies for their clientele. Additionally, healthcare professionals can use these insights to recommend lifestyle changes and preventative care based on risk factors.
