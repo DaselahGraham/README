@@ -47,11 +47,10 @@ In this dataset, there are three categorical variables: `sex`, `smoker`, and `re
 
 - **Sex and Smoker Variables**: These are binary categorical variables. To analyze their relationship with the charges, we used group-by operations to compute the mean charges for each category.
 - **Region**: The `region` column represents four geographic areas. We grouped the data by region to compute the average charges in each region, which allows us to analyze how geographical factors impact healthcare costs.
-
+```
 # Example of handling categorical data by grouping and calculating the mean charges
 region_costs = df.groupby("region")["charges"].mean()
 ```
-
 ##### 3. **Missing Data Handling**
 
 The dataset does not contain any missing values, as confirmed by the `df.info()` call. This is a positive attribute of the dataset, as missing data can often complicate analysis and modeling. However, in real-world scenarios, missing data can be handled in various ways, such as:
