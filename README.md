@@ -64,6 +64,7 @@ The dataset does not contain any missing values, as confirmed by the `df.info()`
 
 Data wrangling and feature engineering are key steps in preparing the data for analysis. In this case, a new feature was created to categorize BMI values into meaningful groups (e.g., "Underweight", "Normal weight", "Overweight", and "Obese").
 
+```python
 def bmi_category(bmi):
     if bmi < 18.5:
         return "Underweight"
