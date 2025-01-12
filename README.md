@@ -131,3 +131,34 @@ The handling of categorical and missing data, as well as the use of data wrangli
 
 This work can be further extended by building predictive models, incorporating additional features, and using advanced machine learning techniques to refine the insights and provide more granular risk assessments. 
 
+#### Citations
+
+    Pandas Documentation
+        "Pandas User Guide." Pandas Development Team. Retrieved from https://pandas.pydata.org/docs/
+
+    NumPy Documentation
+        "NumPy Reference Guide." NumPy Community. Retrieved from https://numpy.org/doc/
+
+    Matplotlib Documentation
+        "Matplotlib: Visualization with Python." Matplotlib Developers. Retrieved from https://matplotlib.org/stable/contents.html
+
+    Kaggle Dataset
+        "Insurance Cost Dataset." Kaggle. Available at https://www.kaggle.com/datasets
+
+    Towards Data Science
+        "Exploratory Data Analysis with Pandas and Matplotlib." Towards Data Science. Retrieved from https://towardsdatascience.com/eda
+
+    Centers for Disease Control and Prevention (CDC)
+        "Smoking and Health Risks." CDC. Retrieved from https://www.cdc.gov/tobacco/index.htm
+
+    Harvard T.H. Chan School of Public Health
+        "Obesity Prevention Source: Economic Costs." Harvard University. Retrieved from https://www.hsph.harvard.edu/obesity-prevention-source/economic-costs/
+
+    Scikit-learn Documentation
+        "Machine Learning in Python." Scikit-learn Developers. Retrieved from https://scikit-learn.org/stable/
+
+    Statistical Data Exploration
+        "Understanding Data Distributions and Correlations." Data Science Handbook. Retrieved from https://datasciencehandbook.org
+
+    American Medical Association (AMA)
+        "The Economics of Healthcare Costs." AMA. Retrieved from https://www.ama-assn.org/
