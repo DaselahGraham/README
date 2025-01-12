@@ -1,4 +1,4 @@
-### GitHub Repository Post: Analyzing Healthcare Costs Using Demographic and Geographic Data
+, ### GitHub Repository Post: Analyzing Healthcare Costs Using Demographic and Geographic Data
 ![medical-banner-with-doctor-wearing-goggles](https://github.com/user-attachments/assets/9a9ca4fd-5ab6-4bbd-8642-a2a664d20f9b)
 
 #### Introduction
@@ -18,11 +18,11 @@ Through data wrangling, analysis, and modeling, this post explains how to answer
 In the context of the insurance industry, the insights gained from this dataset can help businesses predict healthcare expenses, set pricing models, and make data driven decisions. Insurance companies need to assess risk factors associated with their members to offer fair yet competitive prices. By analyzing factors such as location, smoking habits, and BMI, insurers can build predictive models for risk assessment, and adjust accordingly.
 
 For example:
-- **Geographic Influence**: If the data shows that individuals from the Southeast region tend to incur higher charges on average insurers can adjust premiums for clients from this region to better reflect the risk.
-- **Smoking Habits**: If smokers have higher healthcare expenses, insurance providers may offer higher premiums to smokers to cover the added risk of chronic conditions. They may also
+- **Geographic Influence**: The data shows that individuals from the Southeast region tend to incur higher charges on average. Insurers can adjust premiums for clients from this region to better reflect the risk.
+- **Smoking Habits**: Smokers have higher healthcare expenses, insurance providers may offer higher premiums to smokers to cover the added risk of chronic conditions. They may also offer incentives to get their members to quite. Sunshine Health's Healthy Behaviors program aims to help members improve their health and wellness. The program also helps members manage chronic conditions. 
 - **BMI and Health Costs**: Recognizing the connection between higher BMI and increased healthcare costs allows insurers to tailor health-related benefits or preventive programs for individuals with higher BMI categories.
 
-In real-world applications, this analysis can guide insurance companies in improving customer segmentation, pricing strategies, and the development of more tailored policies for their clientele. Additionally, healthcare professionals can use these insights to recommend lifestyle changes and preventative care based on risk factors.
+In real-world applications, this analysis can guide insurance companies in improving customer segmentation, pricing strategies, and the development of more tailored policies for their members. Additionally, healthcare professionals can use these insights to recommend lifestyle changes and preventative care based on risk factors.
 
 ---
 
@@ -48,7 +48,6 @@ In this dataset, there are three categorical variables: `sex`, `smoker`, and `re
 - **Sex and Smoker Variables**: These are binary categorical variables. To analyze their relationship with the charges, we used group-by operations to compute the mean charges for each category.
 - **Region**: The `region` column represents four geographic areas. We grouped the data by region to compute the average charges in each region, which allows us to analyze how geographical factors impact healthcare costs.
 
-```python
 # Example of handling categorical data by grouping and calculating the mean charges
 region_costs = df.groupby("region")["charges"].mean()
 ```
@@ -65,7 +64,6 @@ The dataset does not contain any missing values, as confirmed by the `df.info()`
 
 Data wrangling and feature engineering are key steps in preparing the data for analysis. In this case, a new feature was created to categorize BMI values into meaningful groups (e.g., "Underweight", "Normal weight", "Overweight", and "Obese").
 
-```python
 def bmi_category(bmi):
     if bmi < 18.5:
         return "Underweight"
