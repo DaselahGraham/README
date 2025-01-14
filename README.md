@@ -133,17 +133,16 @@ This work can be further extended by building predictive models, incorporating a
 
 #### File Description
 
-Insurance CSV: Kaggel dataset https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
-School: Notebook Containing the data analysis
-Blog Post: https://medium.com/@dgrah026/analyzing-medical-insurance-costs-32a4ba76c44a
+- Insurance CSV: Kaggel dataset https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
+- School: Notebook Containing the data analysis
+- Blog Post: https://medium.com/@dgrah026/analyzing-medical-insurance-costs-32a4ba76c44a
 
 #### Libraries Used
 
-numpy as np # linear algebra
-pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-matplotlib.pyplot as plt # For plotting
-
-seaborn as sns # For advanced visualizations
+- numpy as np # linear algebra
+- pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+- matplotlib.pyplot as plt # For plotting
+- seaborn as sns # For advanced visualizations
 
 #### Citations
 
