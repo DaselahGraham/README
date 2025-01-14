@@ -129,7 +129,21 @@ In conclusion, this analysis demonstrates how demographic and geographic data ca
 
 The handling of categorical and missing data, as well as the use of data wrangling techniques like BMI categorization, allowed us to effectively transform and analyze the data. These insights not only aid insurance companies in pricing policies but can also inform healthcare professionals and policymakers about the factors driving healthcare costs.
 
-This work can be further extended by building predictive models, incorporating additional features, and using advanced machine learning techniques to refine the insights and provide more granular risk assessments. 
+This work can be further extended by building predictive models, incorporating additional features, and using advanced machine learning techniques to refine the insights and provide more granular risk assessments.
+
+#### File Description
+
+Insurance CSV: Kaggel dataset https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
+School: Notebook Containing the data analysis
+Blog Post: https://medium.com/@dgrah026/analyzing-medical-insurance-costs-32a4ba76c44a
+
+#### Libraries Used
+
+numpy as np # linear algebra
+pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+matplotlib.pyplot as plt # For plotting
+
+seaborn as sns # For advanced visualizations
 
 #### Citations
 
